@@ -4,15 +4,20 @@
 <dict>
 	<key>com.apple.developer.authentication-services.autofill-credential-provider</key>
 	<true/>
+	<key>com.apple.developer.nfc.readersession.formats</key>
+	<array>
+		<string>NDEF</string>
+		<string>TAG</string>
+	</array>
 	<key>com.apple.developer.siri</key>
 	<true/>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.me.mssun.passforiosbeta</string>
+		<string>group.me.beshara.passforiosbeta</string>
 	</array>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>$(AppIdentifierPrefix)group.me.mssun.passforiosbeta</string>
+		<string>$(AppIdentifierPrefix)group.me.beshara.passforiosbeta</string>
 	</array>
 </dict>
 </plist>

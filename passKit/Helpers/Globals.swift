@@ -12,9 +12,9 @@ import UIKit
 public final class Globals {
     public static let bundleIdentifier: String = {
         #if BETA
-            return "me.mssun.passforiosbeta"
+            return "me.beshara.passforiosbeta"
         #else
-            return "me.mssun.passforios"
+            return "me.beshara.passforios"
         #endif
     }()
 

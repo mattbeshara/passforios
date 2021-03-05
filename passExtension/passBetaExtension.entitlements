@@ -4,11 +4,11 @@
 <dict>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.me.mssun.passforiosbeta</string>
+		<string>group.me.beshara.passforiosbeta</string>
 	</array>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>$(AppIdentifierPrefix)group.me.mssun.passforiosbeta</string>
+		<string>$(AppIdentifierPrefix)group.me.beshara.passforiosbeta</string>
 	</array>
 </dict>
 </plist>
